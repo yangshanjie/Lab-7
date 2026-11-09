@@ -77,14 +77,17 @@
 6.打开蚁剑，右键添加数据：
 
 
-<img width="771" height="487" alt="屏幕截图 2026-11-07 214225" src="https://github.com/user-attachments/assets/f8a50bb2-4773-4a96-af02-b24074a45e98" />
+
+<img width="771" height="487" alt="屏幕截图 2026-11-07 214225" src="https://github.com/user-attachments/assets/b63e64ca-e18f-480f-92dc-6add3d18fc34" />
 
 
 
 7.点击测试连接，连接成功后进入服务器文件管理界面，浏览、读取网站服务器文件，实现网站控制。
 
 
-![Uploading 屏幕截图 2026-11-07 214551.png…]()
+
+<img width="847" height="455" alt="屏幕截图 2026-11-07 214551" src="https://github.com/user-attachments/assets/b06ba6eb-7dee-4ad2-9cdf-fa00b0c36c3f" />
+
 
 实验结果
 1.微步云沙箱：成功对被控端样本进行动态分析，沙箱识别样本恶意行为，生成完整威胁检测报告，截图保存。
